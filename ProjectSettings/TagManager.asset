@@ -3,7 +3,12 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - OutWall
+  - Wall
+  - soda
+  - food
+  - enemy
   layers:
   - Default
   - TransparentFX
@@ -40,4 +45,13 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: background
+    uniqueID: 3915860081
+    locked: 0
+  - name: items
+    uniqueID: 4065233771
+    locked: 0
+  - name: role
+    uniqueID: 4182494345
     locked: 0
